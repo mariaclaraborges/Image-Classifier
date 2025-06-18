@@ -1,0 +1,9 @@
+# Environments
+.env
+venv/
+env/
+ENV/
+
+#pasta img
+img/
+clf-data/
